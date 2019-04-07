@@ -8,5 +8,5 @@ remote_theme: daviddarnes/alembic
 
 navigation_header:
   Home: /
-  Focus of our work: /focus/
-  Program: /program/
+  Focus of our work: /focus.md
+  Program: /program.md/
