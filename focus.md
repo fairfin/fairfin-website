@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Focus of our work
 ---
 
