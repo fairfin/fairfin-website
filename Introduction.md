@@ -3,10 +3,18 @@ layout: default
 title: Introduction
 ---
 
-This year we are running for FaRaFIN with a seperate list. We chose to do so, because with the years the work in this council has become more and more stuck and we don’t believe that it is possible to fix this system from inside (some of us having tried and failed at this in the past).
+We're FAIRfin - a diverse group of students wanting to make a difference at our university. In this years commission elections we want to run for FIN's student council as well as the universities student council (the latter in cooperation with the GHG (green university group). 
 
-Traditionally the election for this council has been more or less meaningless, because only one list was present. Thus, the main relevant point of the elections, was who would be able to run for speaker of finances - but even if the chosen person didn’t make the “first seven”, enough people stepped down until that person was amongst those.
+At the moment all of us are experienced in doing voluntary work besides our studies, be it in student council, Acagamics or with the international mentors. If you are interested in who we are as persons, feel free to read our [personal introductions](). 
 
-With the election being meaningless, there was never any ambition to do a meaningful election campaign - campaigning for oneself was also one thing frowned upon by the “one list”. Thus most students were never really enabled to know who stands for what and who they should vote for.
+We have defined six main foci for our work (mainly aimed at the FIN): 
+- integration of local and international students
+- anti-discrimination work
+- opening up FaRaFIN for political work, in specific a clear position against climate change and fascism
+- promote ethical thinking amongst our students
+- improve the study situation of all students
+- fundamental reform and opening of FaRaFIN towards a more productive and open culture
 
-In running with a second list we force a change in this. We have written a program with points we as a list have committed ourselves to work for. Furthermore our members all have written their own motiviation, which you can check on our website.
+If you're interested in more details we invite you to read our [program]()! 
+
+We're still searching for members to run for both student councils, so if you agree with our program and want to help improve the life of our students feel free to contact us - briefly describing your motivation. You can read more about becoming a member [here]().
