@@ -1,4 +1,4 @@
-theme: jekyll-theme-minima
-
 title: Fairfin
 Description: The website of the FAIRfin student group
+
+theme: alembic-jekyll-theme
