@@ -11,20 +11,20 @@ This semester we are closing in on having **50%** international students in our 
 Those few courses which are offered in english language then naturally get overrun resulting in students not being able to take them. For many students this results in having to study an additional year and not having the ability to choose between different courses.
 This is just one example of the universities recless behaviour in implementing two english study courses and not preparing for them in any way.
 
-	* We want to promote using a central technical system for registering to a specific course
-	* We want to draft up a fair, discrimination free system of letting people into their preferred courses
+ * We want to promote using a central technical system for registering to a specific course
+ * We want to draft up a fair, discrimination free system of letting people into their preferred courses
 
 #### Ethics course
 
-	* point out ethic courses in other areas
-	* responsibility of computer scientists
-	* current situation ("two" courses)
-	* something like Schlueko
-	* more (and required) ethics courses
-	* measures
-		* Bring this up in StuKo and faculty council
-		* Assist in drafting a possible module description and redesign the courses to reflect this course
-		* Look into getting more (external) courses in this direction
+ * point out ethic courses in other areas
+ * responsibility of computer scientists
+ * current situation ("two" courses)
+ * something like Schlueko
+ * more (and required) ethics courses
+ * measures
+	 * Bring this up in StuKo and faculty council
+	 * Assist in drafting a possible module description and redesign the courses to reflect this course
+	 * Look into getting more (external) courses in this direction
 
 #### Computer Visualistics Masters program
 
@@ -37,106 +37,106 @@ In the computational visualistics bachelor program you have to choose one out of
 
 #### Exam scheduling
 
-	* Try improving the exam scheduling
-		* Examinations should be better spread over the whole examination phase
-		* It should not be the case that a large part of the examinations take place at the beginning of the examination phase
+ * Try improving the exam scheduling
+	 * Examinations should be better spread over the whole examination phase
+	 * It should not be the case that a large part of the examinations take place at the beginning of the examination phase
 
 #### Recognize profile study courses for non-cs students
 
-	* Currently only the cs-study course has profile courses
-	* If you're studying business informatics (eg.) and do all courses part of such a profile, that isn't officially recognized
+ * Currently only the cs-study course has profile courses
+ * If you're studying business informatics (eg.) and do all courses part of such a profile, that isn't officially recognized
 
 #### Faculty
 
 ##### Awareness Group
 
-	* Founding of the awareness group by our members
-	* Measures
-		* Continuation of this work
+ * Founding of the awareness group by our members
+ * Measures
+	 * Continuation of this work
 
 ##### Opening hours
 
-	* Describe current situation
-	* Fix the problems with the opening hours
-	* Measures
-		* Be more persistent to finally solve this problem
+ * Describe current situation
+ * Fix the problems with the opening hours
+ * Measures
+	 * Be more persistent to finally solve this problem
 
 ##### Open labs and working spaces
 
-	* Try getting more open labs and working spaces
-	* Get better technical infrastructure for these working spaces
-	* Make meeting rooms available for student projects etc
-	* Measures
-		* Make more meeting rooms available for students
-		* Promote better technical infrastrucutre for open spaces
-		* Make a case to reopen K056 to the "public"
+ * Try getting more open labs and working spaces
+ * Get better technical infrastructure for these working spaces
+ * Make meeting rooms available for student projects etc
+ * Measures
+	 * Make more meeting rooms available for students
+	 * Promote better technical infrastrucutre for open spaces
+	 * Make a case to reopen K056 to the "public"
 
 ##### Gender neutral bathrooms
 
-	* Gender neutral bathrooms
-	* Measures
-		* Have gender neutral bathrooms in the second and fourth floor of the main staircase
+ * Gender neutral bathrooms
+ * Measures
+	 * Have gender neutral bathrooms in the second and fourth floor of the main staircase
 
 ##### Alumni community
 
-	* Establish an alumni community
-		* Get workshops from there
+ * Establish an alumni community
+	 * Get workshops from there
 
 ##### Phd students
 
-	* Currently few people are aware, that FaRaFIN also represents Phd students who chose to be represented by us
-	* We should evaluate what this means for us
+ * Currently few people are aware, that FaRaFIN also represents Phd students who chose to be represented by us
+ * We should evaluate what this means for us
 
 #### University and Society
 
 ##### Promote ethical thinking
 
-	* Measures
-		* Events to promote this
-		* Open discourse about ethics on a faculty level
-		* Critisize unethical things in faculty etc
+ * Measures
+	 * Events to promote this
+	 * Open discourse about ethics on a faculty level
+	 * Critisize unethical things in faculty etc
 
 ##### Promote political acitvism
 
-	* Measures
-		* Events to promote this
-		* Support political causes we deem important
-		* Found a department for political work in FaRaFIN
-		* Participate in demonstrations
+ * Measures
+	 * Events to promote this
+	 * Support political causes we deem important
+	 * Found a department for political work in FaRaFIN
+	 * Participate in demonstrations
 
 ##### Stance on antifascism
 
-	* Measures
-		* Clear statement against fascism
-		* Information events
-		* Support antifascist cause
-		* Participate in demonstrations
+ * Measures
+	 * Clear statement against fascism
+	 * Information events
+	 * Support antifascist cause
+	 * Participate in demonstrations
 
 ##### Stance on climate change
 
-	* Fridays for Future as a student initiative
-	* Measures
-		* Clear statement on climate change
-		* Information events
-		* Support cause
-		* Participate in demonstrations
+ * Fridays for Future as a student initiative
+ * Measures
+	 * Clear statement on climate change
+	 * Information events
+	 * Support cause
+	 * Participate in demonstrations
 
 ##### Cooperation with StuRa
 
-	* Stronger cooperation with StuRa
-	* Describe current situation
-	* Measures
-		* Appoint person for interaction with StuRa
-		* Work with StuRa on policies which affect the whole university
+ * Stronger cooperation with StuRa
+ * Describe current situation
+ * Measures
+	 * Appoint person for interaction with StuRa
+	 * Work with StuRa on policies which affect the whole university
 
 ##### Stance on digital policies (eg Art 13)
 
-	* Measures
-		* Inform as experts
-		* Information events
-		* Work together with groups like [netzpolitik.org](https://netzpolitik.org/), digitalcourage, CCC etc.
-		* Support cause
-		* Participate in and organize demonstrations
+ * Measures
+	 * Inform as experts
+	 * Information events
+	 * Work together with groups like [netzpolitik.org](https://netzpolitik.org/), digitalcourage, CCC etc.
+	 * Support cause
+	 * Participate in and organize demonstrations
 
 ##### Legal name requirement on official electoral stuff
 
@@ -146,14 +146,14 @@ In the computational visualistics bachelor program you have to choose one out of
 
 ##### Events for international students
 
-	* Make events more accessible to international students
-	* Measures
-		* Let events be organized by intercultural teams
-		* Lay focus on english language
+ * Make events more accessible to international students
+ * Measures
+	 * Let events be organized by intercultural teams
+	 * Lay focus on english language
 
 ##### Workshops and talks
 
-	* Help organizing more workshops
+ * Help organizing more workshops
 
 ###### Changing the focus of events
 
@@ -161,29 +161,29 @@ In the computational visualistics bachelor program you have to choose one out of
 
 ##### Improved culture
 
-	* Openness
-	* Better culture
+ * Openness
+ * Better culture
 
 ##### More transparency
 
-	* Transparency
-	* More interactions with students
-	* More press work
+ * Transparency
+ * More interactions with students
+ * More press work
 
 ##### Decentralization of the structure
 
-	* Decentralization of the structure
-		* Departments
-		* Taskforces
+ * Decentralization of the structure
+	 * Departments
+	 * Taskforces
 
 ##### More participation by everyone
 
-	* More basis democracy
+ * More basis democracy
 
 ##### Integration of international students
 
-	* Measures
-		* Internal language english
+ * Measures
+	 * Internal language english
 
 ##### Flatten hierarchies in FaRaFIN
 
@@ -192,9 +192,9 @@ Especially in the past legislation this has ben cause for some problems. As ther
 Furthermore it has become more and more difficult to find people willing to take the speaker positions, as it is unclear how much work actually comes with the position.
 We believe all seven members of FaRaFIN should be equal and that no additional hierarchy is necessary above them. Thus we want to promote the following points:
 
-	* Remove the term "board" from FaRaFINs bylaws and replace it with "speakers"
-		* That way no hierarchy is implied
-	* Remove the boards budget + resolution and any further special authorities the board has. At the same time we want to make it easier for the members to make quick decisions if necessary, as to not disable FaRaFIN if some small amount of money needs to be spent.
-	* Make the sole purpose of the speaker of finances to be FaRaFINs accountant
-	* Make the sole purpose of the speaker for internal affairs do to be a mediator and contact person for FaRaFINs internal affairs
-	* Make the sole purpose of the speaker of public affairs to be a contact person for external entities
+ * Remove the term "board" from FaRaFINs bylaws and replace it with "speakers"
+	 * That way no hierarchy is implied
+ * Remove the boards budget + resolution and any further special authorities the board has. At the same time we want to make it easier for the members to make quick decisions if necessary, as to not disable FaRaFIN if some small amount of money needs to be spent.
+ * Make the sole purpose of the speaker of finances to be FaRaFINs accountant
+ * Make the sole purpose of the speaker for internal affairs do to be a mediator and contact person for FaRaFINs internal affairs
+ * Make the sole purpose of the speaker of public affairs to be a contact person for external entities

@@ -16,10 +16,10 @@ We aim to change this and transform our faculty into a truly inclusive and multi
 
 ## Anti discrimination work
 
-	* Different sides of discrimination
-	* Make this visible
-	* Create awareness for discriminatory behaviour
-	* Inclusiveness
+ * Different sides of discrimination
+ * Make this visible
+ * Create awareness for discriminatory behaviour
+ * Inclusiveness
 
 ## Opening up FaRaFIN for political work, in specific a clear position against climate change and fascism
 
@@ -27,23 +27,23 @@ In the year 2009 FaRaFIN has adopted a stance not to do political work, except f
 Not only does this mean FaRaFIN won't do any projects which could be deemed political in any way (which is difficult if you consider everything to be in some way political) - but it also doesn't fund or advertise anything in that regard.
 Lately this rule has loosened a bit, but, as demonstrated by the refusal to advertise an event on free social media, this is more due to not having questioned if a event is political or not.
 
-	* Fridays for future as a student initiative
-	* Importance of climate change
-	* Digital policies
-	* Active tolerance
-	* International students
+ * Fridays for future as a student initiative
+ * Importance of climate change
+ * Digital policies
+ * Active tolerance
+ * International students
 
 ## Promote ethical thinking amongst our students
 
-	* Computer scientists as the job of the future
-	* Ethical responsibility
-	* Military, repression, censorship, privacy etc
+ * Computer scientists as the job of the future
+ * Ethical responsibility
+ * Military, repression, censorship, privacy etc
 
 ## Fundamental reform and opening of FaRaFIN a more productive and open culture in FaRaFIN
 
-	* Decision-making
-	* Bureaucracy
-	* Describe toxic culture
+ * Decision-making
+ * Bureaucracy
+ * Describe toxic culture
 
 ## Why are we doing this?
 
