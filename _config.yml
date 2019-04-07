@@ -5,3 +5,8 @@ plugins:
   - jekyll-remote-theme
 
 remote_theme: daviddarnes/alembic
+
+navigation_header:
+  Home: /
+  Focus of our work: /focus/
+  Program: /program/
