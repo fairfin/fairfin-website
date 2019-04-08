@@ -21,14 +21,13 @@ This is just one example of the universities recless behaviour in implementing t
 
 #### Ethics course
 
-- point out ethic courses in other areas
-- responsibility of computer scientists
-- current situation ("two" courses)
-- something like Schlueko
-- more (and required) ethics courses
+- Many other areas and universities have mandatory ethics courses
+- computer scientists have a high moral responsibility
+- currently there are only two courses touching the topic
+- we'd like to have more (and required) ethics courses
 - measures
 	- Bring this up in StuKo and faculty council
-	- Assist in drafting a possible module description and redesign the courses to reflect this course
+	- Assist in drafting a possible module description and redesign the study courses to reflect this course
 	- Look into getting more (external) courses in this direction
 
 **The definite text for this is still in progress. If you want to support us here, feel free to [join us](/join-us).**
