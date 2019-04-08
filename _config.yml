@@ -31,7 +31,6 @@ navigation_footer:
   Home: /
   Imprint: /imprint/
   Datenschutzerklärung: /dataprivacy/
-  Feature Photo by Markus Spiske on Unsplash
 
 kramdown:
   auto_ids          : true
