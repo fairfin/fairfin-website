@@ -63,41 +63,44 @@ In the computational visualistics bachelor program you have to choose one out of
 
 ##### Awareness Group
 
-- Founding of the awareness group by our members
+- Members of our group have founded FaRaFINs Awareness Group this January
 - Measures
-	- Continuation of this work
+	- Continuation of the work which is beginning to be done here
 
 **The definite text for this is still in progress. If you want to support us here, feel free to [join us](/join-us).**
 
 ##### Opening hours
 
-- Describe current situation
-- Fix the problems with the opening hours
+- The current situation for the opening hours is still unclear
+- It's not 100% clear when you're required to register with ISD and when not
+- ISD doesn't necessarily have employees able to speak english
 - Measures
-	- Be more persistent to finally solve this problem
+	- Get everyone at a table to finally get clarity into this situation
+        - Provide translations for english-speaking students to help them communicate with security
 
 **The definite text for this is still in progress. If you want to support us here, feel free to [join us](/join-us).**
 
 ##### Open labs and working spaces
 
-- Try getting more open labs and working spaces
-- Get better technical infrastructure for these working spaces
-- Make meeting rooms available for student projects etc
+- Most open labs and working spaces are overcrowded and loud
+- Many could havet better technical infrastructure
+- Many meeting rooms are empty for very long times, at the same time it's difficult to get meeting rooms for students
 - Measures
 	- Make more meeting rooms available for students
 	- Promote better technical infrastrucutre for open spaces
 	- Make a case to reopen K056 to the "public"
+        - Try creating more open labs and spaces
 
 ##### Gender neutral bathrooms
 
-- Gender neutral bathrooms
+- binary bathrooms exclude nonbinary people
 - Measures
 	- Have gender neutral bathrooms in the second and fourth floor of the main staircase
 
 ##### Alumni community
 
 - Establish an alumni community
-	- Get workshops from there
+	- Get workshops from these people
 
 **The definite text for this is still in progress. If you want to support us here, feel free to [join us](/join-us).**
 
@@ -152,8 +155,7 @@ In the computational visualistics bachelor program you have to choose one out of
 
 ##### Cooperation with StuRa
 
-- Stronger cooperation with StuRa
-- Describe current situation
+- currently the relations between StuRa and FaRaFIN are distant and sometimes difficult
 - Measures
 	- Appoint person for interaction with StuRa
 	- Work with StuRa on policies which affect the whole university
