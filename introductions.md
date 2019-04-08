@@ -6,12 +6,22 @@ title: Team
 Here you can see who the people making up our list are. We'll also put up introduction texts for everyone, as soon as they're all ready. 
 
 ## Claudius Grimm
+running for: FaRaFIN and StuRa
 ## David Magnus Henriques
+running for: FaRaFIN and StuRa
 ## Gustav Neumann
+running for: FaRaFIN
 ## muffin
+running for: FaRaFIN and StuRa
 ## Naveen Raj Datha 
-## Rakesh Devalapally 
+running for: FaRaFIN
+## Rakesh Devalapally
+running for: FaRaFIN and StuRa
 ## Sarah Mittenentzwei
+running for: FaRaFIN and StuRa
 ## Sascha Moros
+running for: FaRaFIN
 ## Sumit Kundu 
+running for: FaRaFIN
 ## Tharakeswara Rao
+running for: FaRaFIN
