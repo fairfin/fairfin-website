@@ -24,8 +24,9 @@ We aim to change this and transform our faculty into a truly inclusive and multi
 - Create awareness for discriminatory behavior
 - Inclusiveness
 
-### Opening up FaRaFIN for political work, in specific a clear position against climate change and fascism
+### Opening up FaRaFIN for political work
 
+- in specific we want to have a clear position against climate change and fascism
 - moral and legal obligation to do so
 - currently FaRaFIN completely excludes political work
 - Digital policies
@@ -48,8 +49,9 @@ We aim to change this and transform our faculty into a truly inclusive and multi
 - improve CV masters course
 - improve CV in non-medical fields
 
-### Fundamental reform and opening of FaRaFIN a more productive and open culture in FaRaFIN
+### Fundamental reform and opening of FaRaFIN 
 
+- we want a more productive and open culture in FaRaFIN
 - Open and transparent decision-making 
 - reduce bureaucracy
 - remove toxic culture in favor of a productive and open one
