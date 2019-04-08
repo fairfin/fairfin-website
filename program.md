@@ -10,6 +10,7 @@ Please note that this page is still in progress. If you want to support us with 
 This is our program for FaRaFIN in the upcoming 2019 committee elections. We have sorted points into five categories: Studies, Faculty, University and Society, Projects and Events, internal structure of FaRaFIN.
 
 ### Studies
+___
 
 #### English Courses
 This semester we are closing in on having 50% international students in our faculty. Yet only very few courses are offered in english.
