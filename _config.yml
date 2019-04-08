@@ -30,6 +30,7 @@ navigation_header:
 navigation_footer:
   Home: /
   Imprint: /imprint/
+  Datenschutzerklärung: /dataprivacy/
 
 kramdown:
   auto_ids          : true
