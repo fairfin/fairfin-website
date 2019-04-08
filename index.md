@@ -2,7 +2,6 @@
 layout: page
 title: Introduction
 feature_image: "/uploads/feature-image.jpg"
-feature_text: "FAIRfin - for a fair, antifascist, inclusive and responsible FIN"
 ---
 
 We're FAIRfin - a diverse group of students wanting to make a difference at our university. In this years commission elections we want to run for FIN's student council as well as the universities student council (the latter in cooperation with the GHG (green university group). 
