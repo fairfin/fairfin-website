@@ -1,5 +1,11 @@
-title: Fairfin
-Description: The website of the FAIRfin student group
+title: FAIRfin
+description: The website of the FAIRfin student group
+encoding: utf-8
+url: https://fairfin.org
+lang: en-US
+baseurl: ""
+repo: "https://github.com/fairfin/fairfin-website/"
+email: "contact@fairfin.org"
 
 plugins:
   - jekyll-remote-theme
