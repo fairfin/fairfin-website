@@ -9,7 +9,7 @@ Please note that this page is still in progress. If you want to support us with 
 
 This is our program for FaRaFIN in the upcoming 2019 committee elections. We have sorted points into five categories: Studies, Faculty, University and Society, Projects and Events, internal structure of FaRaFIN.
 
-#### Studies
+### Studies
 
 ##### English Courses
 This semester we are closing in on having 50% international students in our faculty. Yet only very few courses are offered in english.
@@ -50,7 +50,7 @@ In the computational visualistics bachelor program you have to choose one out of
 - Currently only the cs-study course has profile courses
 - If you're studying business informatics (eg.) and do all courses part of such a profile, that isn't officially recognized
 
-#### Faculty
+### Faculty
 
 ##### Awareness Group
 
@@ -94,7 +94,7 @@ In the computational visualistics bachelor program you have to choose one out of
 - Currently few people are aware, that FaRaFIN also represents Phd students who chose to be represented by us
 - We should evaluate what this means for us
 
-#### University and Society
+### University and Society
 
 ##### Promote ethical thinking
 
@@ -156,7 +156,7 @@ In the computational visualistics bachelor program you have to choose one out of
 - some people are going through name changes
 - forcing the usage of their legal name on them in universitary day-by-day is hurting them
 
-#### Projects and Events
+### Projects and Events
 
 ##### Events for international students
 
@@ -177,7 +177,7 @@ In the computational visualistics bachelor program you have to choose one out of
 - there's no need at all for FaRaFIN micro-managing these parties 
 - there's no need to appoint event managers from the memebers of FaRaFIN
 
-#### Internal structure of FaRaFIN
+### Internal structure of FaRaFIN
 
 ##### Improved culture
 
