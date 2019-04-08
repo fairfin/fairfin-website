@@ -6,23 +6,23 @@ feature_image: "/uploads/feature-image.jpg"
 
 Here you can see who the people making up our list are. We'll also put up introduction texts for everyone, as soon as they're all ready. 
 
-## Claudius Grimm
+### Claudius Grimm
 running for: FaRaFIN and StuRa
-## David Magnus Henriques
+### David Magnus Henriques
 running for: FaRaFIN and StuRa
-## Gustav Neumann
+### Gustav Neumann
 running for: FaRaFIN
-## muffin
+### muffin
 running for: FaRaFIN and StuRa
-## Naveen Raj Datha 
+### Naveen Raj Datha 
 running for: FaRaFIN
-## Rakesh Devalapally
+### Rakesh Devalapally
 running for: FaRaFIN
-## Sarah Mittenentzwei
+### Sarah Mittenentzwei
 running for: FaRaFIN
-## Sascha Moros
+### Sascha Moros
 running for: FaRaFIN
-## Sumit Kundu 
+### Sumit Kundu 
 running for: FaRaFIN
-## Tharakeswara Rao
+### Tharakeswara Rao
 running for: FaRaFIN
