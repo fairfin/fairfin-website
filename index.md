@@ -4,7 +4,7 @@ title: Introduction
 feature_image: "/uploads/feature-image.jpg"
 ---
 
-We're FAIRfin - a diverse group of students wanting to make a difference at our university. In this years commission elections we want to run for FIN's student council as well as the universities student council (the latter in cooperation with the GHG (green university group). 
+We're FAIRfin - a diverse group of students wanting to make a difference at our university. In this years commission elections we want to run for FIN's student council as well as the university's student council (the latter in cooperation with the GHG (green university group). 
 
 At the moment all of us are experienced in doing voluntary work besides our studies, be it in student council, Acagamics or with the international mentors. If you are interested in who we are as persons, feel free to read our [personal introductions](/introductions). 
 
