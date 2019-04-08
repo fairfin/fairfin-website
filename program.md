@@ -9,9 +9,9 @@ Please note that this page is still in progress. If you want to support us with 
 
 This is our program for FaRaFIN in the upcoming 2019 committee elections. We have sorted points into five categories: Studies, Faculty, University and Society, Projects and Events, internal structure of FaRaFIN.
 
-### Studies
+#### Studies
 
-#### English Courses
+##### English Courses
 This semester we are closing in on having 50% international students in our faculty. Yet only very few courses are offered in english.
 Those few courses which are offered in english language then naturally get overrun resulting in students not being able to take them. For many students this results in having to study an additional year and not having the ability to choose between different courses.
 This is just one example of the universities recless behaviour in implementing two english study courses and not preparing for them in any way.
@@ -19,7 +19,7 @@ This is just one example of the universities recless behaviour in implementing t
 - We want to promote using a central technical system for registering to a specific course
 - We want to draft up a fair, discrimination free system of letting people into their preferred courses
 
-#### Ethics course
+##### Ethics course
 
 - Many other areas and universities have mandatory ethics courses
 - computer scientists have a high moral responsibility
@@ -30,22 +30,22 @@ This is just one example of the universities recless behaviour in implementing t
 	- Assist in drafting a possible module description and redesign the study courses to reflect this course
 	- Look into getting more (external) courses in this direction
 
-#### Computer Visualistics Masters program
+##### Computer Visualistics Masters program
 
 More and more students decide for the computer science master program instead of a computational visualistics master program. That is because the computational visualistics master has no advantage over a computer science master. In fact you can do more typical computational visualistics courses when choosing the computer science master since in the computational visualistics programm you get forced to choose some lectures, that are not related to computational visualistics. Also in the computational visualistics program you don't have the chance to go on with your "Anwendungsfach" (except for some medicine lectures), but as a computer science master student you could just choose those courses as "Nebenfach".
 Currently there is no benefit from choosing the computational visualistics master program instead of the computer science master program.
 
-#### Computer Visualistics outside of the medical focus
+##### Computer Visualistics outside of the medical focus
 
 In the computational visualistics bachelor program you have to choose one out of five "Anwendungsfaecher". These are "Medizintechnik", "Computer Spiele", "Konstruktion und Design", "Bildinformationstechnik", "Werkstoffwissenschaften" and "Biologie". Computational visualistics is officially advertised as an interdisciplinary study course, but the conntection beween your studies at the FIN and your "Anwendungsfach" is sometimes very weak. How much you can include your chosen "Anwendungsfach" in your studies (beyond the four mandatory courses) depends on the research focus of our professors. Since many Professors at our faculty are interested in medicine, you have the possibility to choose many different courses and seminars or even a thesis related to the "Anwendungsfach" "Medztintechnik". Some of the other "Anwendungsfaecher", especially "Konstruktion und Design", do not have this possibilites.
 
-#### Exam scheduling
+##### Exam scheduling
 
 - Try improving the exam scheduling
 	- Examinations should be better spread over the whole examination phase
 	- It should not be the case that a large part of the examinations take place at the beginning of the examination phase
 
-#### Recognize profile study courses for non-cs students
+##### Recognize profile study courses for non-cs students
 
 - Currently only the cs-study course has profile courses
 - If you're studying business informatics (eg.) and do all courses part of such a profile, that isn't officially recognized
