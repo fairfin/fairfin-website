@@ -7,11 +7,11 @@ Please note that this page is still in progress. If you want to support us with 
 
 ## Integration of Local and International students
 
-Some years ago the study courses DKE and DE have become very popular with international students. This is also heavily due to the fact that those courses are offered in english language.
-Today we see many problems assoiciated with the faculties utter unpreparedness in regards to having international students. There has been some good work, but there's still a long way to go.
+Some years ago the study courses DKE and DE have become very popular with international students. This is also heavily due to the fact that those courses are offered in English language.
+Today we see many problems associated with the faculties utter unpreparedness in regards to having international students. There has been some good work, but there's still a long way to go.
 Last semester the percentage of international students in our faculty was over 37% (593 students), while for the current summer term there are 343 international students applying for a course.
-Of course not all of the international students are non-german-speaking - but visibly a big part of the faculty consists of such students. When we refer to "international" students in later instances of this document, we generally adress those students, who came here to absolve their studies in english language.
-These students are seperated from german-speaking students in many ways. On a social level we observe two nearly completly seperate groups of students which don't really interact with one another. Academely there are still many problems for international students at our faculty. Up until now there wasn't even a possibility of electing international students into student council.
+Of course not all of the international students are non-german-speaking - but visibly a big part of the faculty consists of such students. When we refer to "international" students in later instances of this document, we generally address those students, who came here to absolve their studies in the English language.
+These students are separated from german-speaking students in many ways. On a social level we observe two nearly completely separate groups of students which don't really interact with one another. Academically there are still many problems for international students at our faculty. Up until now there wasn't even a possibility of electing international students into the student council.
 In the same way as the faculty FaRaFIN has been struggling with this evolution. There has been some good intentioned work towards bettering the situation, yet still international students often don't feel represented or aided by FaRaFIN.
 We aim to change this and transform our faculty into a truly inclusive and multicultural place.
 
@@ -19,15 +19,13 @@ We aim to change this and transform our faculty into a truly inclusive and multi
 
 - Different sides of discrimination
 - Make this visible
-- Create awareness for discriminatory behaviour
+- Create awareness for discriminatory behavior
 - Inclusiveness
-
-**The definite text for this is still in progress. If you want to support us here, feel free to [join us](/join-us).**
 
 ## Opening up FaRaFIN for political work, in specific a clear position against climate change and fascism
 
 - moral and legal obligation to do so
-- currently FaRaFIN completly excludes political work
+- currently FaRaFIN completely excludes political work
 - Digital policies
   - eg: article 13
 - Importance of climate change
@@ -35,15 +33,11 @@ We aim to change this and transform our faculty into a truly inclusive and multi
 - Active tolerance
 - International students
 
-**The definite text for this is still in progress. If you want to support us here, feel free to [join us](/join-us).**
-
 ## Promote ethical thinking amongst our students
 
 - Computer scientists as the job of the future
 - Ethical responsibility
 - Think about applications like military, repression, censorship, privacy etc
-
-**The definite text for this is still in progress. If you want to support us here, feel free to [join us](/join-us).**
 
 ## improve the study situation of all students
 - more open labs
@@ -51,12 +45,9 @@ We aim to change this and transform our faculty into a truly inclusive and multi
 - improve exam schedules
 - improve CV masters course
 - improve CV in non-medical fields
-**The definite text for this is still in progress. If you want to support us here, feel free to [join us](/join-us).**
 
 ## Fundamental reform and opening of FaRaFIN a more productive and open culture in FaRaFIN
 
 - Open and transparent decision-making 
 - reduce bureaucracy
 - remove toxic culture in favor of a productive and open one
-
-**The definite text for this is still in progress. If you want to support us here, feel free to [join us](/join-us).**
