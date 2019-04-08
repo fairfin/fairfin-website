@@ -18,7 +18,7 @@ running for: FaRaFIN
 ## Rakesh Devalapally
 running for: FaRaFIN and StuRa
 ## Sarah Mittenentzwei
-running for: FaRaFIN and StuRa
+running for: FaRaFIN
 ## Sascha Moros
 running for: FaRaFIN
 ## Sumit Kundu 
