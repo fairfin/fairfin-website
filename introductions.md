@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Team
+feature_image: "/uploads/feature-image.jpg"
 ---
 
 Here you can see who the people making up our list are. We'll also put up introduction texts for everyone, as soon as they're all ready. 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Join us
+feature_image: "/uploads/feature-image.jpg"
 --- 
 
 Of course we're still searching for likeminded people willing to join us. On this page we want to try to give you a broad overview of what that would mean. If you have any questions, please feel free to write us an e-mail to contact@fairfin.org. 

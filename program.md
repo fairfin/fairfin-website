@@ -2,6 +2,7 @@
 layout: page
 title: Program
 aside: true
+feature_image: "/uploads/feature-image.jpg"
 ---
 
 Please note that this page is still in progress. If you want to support us with any points, feel free to [join us](/join-us). If you have any ideas feel free to write an email to contact@fairfin.org

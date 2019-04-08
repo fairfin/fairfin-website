@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Focus of our work
+feature_image: "/uploads/feature-image.jpg"
 ---
 
 Please note that this page is still in progress. If you want to support us with any points, feel free to [join us](/join-us).
