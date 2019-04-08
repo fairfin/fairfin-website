@@ -146,7 +146,15 @@ In the computational visualistics bachelor program you have to choose one out of
 
 ##### Legal name requirement on official electoral stuff
 
+- a few students aren't mainly known by their legal name
+- some people are going through name changes
+- requiring those students to use their legal name on the ballot is hurting them
+
 ##### Legal name is often required
+
+- a few students aren't mainly known by their legal name
+- some people are going through name changes
+- forcing the usage of their legal name on them in universitary day-by-day is hurting them
 
 #### Projects and Events
 
@@ -155,20 +163,26 @@ In the computational visualistics bachelor program you have to choose one out of
 - Make events more accessible to international students
 - Measures
 	- Let events be organized by intercultural teams
-	- Lay focus on english language
+	- Shift focus towards bilangual or english events
 
 ##### Workshops and talks
 
-- Help organizing more workshops
+- Measures
+	- Help students with the organizational side of workshops and talks
+	- implement a truly regular workshop/talk series
 
 ###### Changing the focus of events
+
+- parties etc are super important for the cultural life of the faculty
+- there's no need at all for FaRaFIN micro-managing these parties 
+- there's no need to appoint event managers from the memebers of FaRaFIN
 
 #### Internal structure of FaRaFIN
 
 ##### Improved culture
 
-- Openness
-- Better culture
+- more openness towards new people and ideas
+- better, more productive culture
 
 ##### More transparency
 
@@ -185,11 +199,16 @@ In the computational visualistics bachelor program you have to choose one out of
 ##### More participation by everyone
 
 - More basis democracy
+- Let the voice of all students truly be heard 
 
 ##### Integration of international students
 
+- currently international students aren't represented amongst the elected members of the student councils
+- there's a language barrier preventing international students from being able to participate and thus being represented
 - Measures
-	- Internal language english
+	- change the internal language english
+	- run for student council as international students
+	- get more international students to participate
 
 ##### Flatten hierarchies in FaRaFIN
 
