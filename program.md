@@ -5,7 +5,7 @@ aside: true
 ---
 
 
-Please note that this page is still in progress. If you want to support us with any points, feel free to [join us](/join-us).
+Please note that this page is still in progress. If you want to support us with any points, feel free to [join us](/join-us). If you have any ideas feel free to write an email to contact@fairfin.org
 
 This is our program for FaRaFIN in the upcoming 2019 committee elections. We have sorted points into five categories: Studies, Faculty, University and Society, Projects and Events, internal structure of FaRaFIN.
 
