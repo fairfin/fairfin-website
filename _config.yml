@@ -8,6 +8,12 @@ repo: "https://github.com/fairfin/fairfin-website/"
 email: "contact@fairfin.org"
 author: FAIRfin
 
+ass:
+  style: compressed
+permalink: pretty
+excerpt_separator: <!-- more -->
+timezone: Europe/Berlin
+
 plugins:
   - jekyll-remote-theme
 
