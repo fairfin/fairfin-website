@@ -16,6 +16,7 @@ timezone: Europe/Berlin
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-toc
 
 remote_theme: daviddarnes/alembic
 
