@@ -1,3 +1,8 @@
+---
+layout: post
+title: Imprint
+---
+
 Verantwortlich gemäß §5 TMG / §55 RStV:
 
 David Magnus Henriques
