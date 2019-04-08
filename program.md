@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: page
 title: Program
+aside: true
 ---
 
 
