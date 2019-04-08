@@ -15,6 +15,7 @@ We have defined six main foci for our work (mainly aimed at the FIN):
 - promote ethical thinking amongst our students
 - improve the study situation of all students
 - fundamental reform and opening of FaRaFIN towards a more productive and open culture
+
 We have explained each of them in more depth [here](/focus).
 
 If you're interested in more details we invite you to read our [program](/program)! 
