@@ -3,6 +3,8 @@ layout: post
 title: Focus of our work
 ---
 
+Please note that this page is still in progress. If you want to support us with any points, feel free to [join us](/join-us).
+
 ## Integration of Local and International students
 
 Some years ago the study courses DKE and DE have become very popular with international students. This is also heavily due to the fact that those courses are offered in english language.
@@ -33,11 +35,23 @@ We aim to change this and transform our faculty into a truly inclusive and multi
 - Active tolerance
 - International students
 
+**The definite text for this is still in progress. If you want to support us here, feel free to [join us](/join-us).**
+
 ## Promote ethical thinking amongst our students
 
 - Computer scientists as the job of the future
 - Ethical responsibility
 - Think about applications like military, repression, censorship, privacy etc
+
+**The definite text for this is still in progress. If you want to support us here, feel free to [join us](/join-us).**
+
+## improve the study situation of all students
+- more open labs
+- improve registration for courses
+- improve exam schedules
+- improve CV masters course
+- improve CV in non-medical fields
+**The definite text for this is still in progress. If you want to support us here, feel free to [join us](/join-us).**
 
 ## Fundamental reform and opening of FaRaFIN a more productive and open culture in FaRaFIN
 
@@ -45,3 +59,4 @@ We aim to change this and transform our faculty into a truly inclusive and multi
 - reduce bureaucracy
 - remove toxic culture in favor of a productive and open one
 
+**The definite text for this is still in progress. If you want to support us here, feel free to [join us](/join-us).**
