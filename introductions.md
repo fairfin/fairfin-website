@@ -16,7 +16,7 @@ running for: FaRaFIN and StuRa
 ## Naveen Raj Datha 
 running for: FaRaFIN
 ## Rakesh Devalapally
-running for: FaRaFIN and StuRa
+running for: FaRaFIN
 ## Sarah Mittenentzwei
 running for: FaRaFIN
 ## Sascha Moros
