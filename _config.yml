@@ -21,15 +21,15 @@ remote_theme: daviddarnes/alembic
 
 navigation_header:
   Home: /
-  Focus of our work: /focus
-  Program: /program
-  Why we are doing this: /why
-  Team: /introductions
-  Join us: /join-us
+  Focus of our work: /focus/
+  Program: /program/
+  Why we are doing this: /why/
+  Team: /introductions/
+  Join us: /join-us/
   
 navigation_footer:
   Home: /
-  Imprint: /imprint
+  Imprint: /imprint/
 
 kramdown:
   auto_ids          : true
