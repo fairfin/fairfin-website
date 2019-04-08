@@ -12,7 +12,7 @@ This is our program for FaRaFIN in the upcoming 2019 committee elections. We hav
 ### Studies
 
 #### English Courses
-This semester we are closing in on having--50%-- international students in our faculty. Yet only about--7 of our 20-- profs even offer english courses--(and even then not all of their courses are offered in english language)--.
+This semester we are closing in on having 50% international students in our faculty. Yet only very few courses are offered in english.
 Those few courses which are offered in english language then naturally get overrun resulting in students not being able to take them. For many students this results in having to study an additional year and not having the ability to choose between different courses.
 This is just one example of the universities recless behaviour in implementing two english study courses and not preparing for them in any way.
 
