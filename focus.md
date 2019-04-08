@@ -7,7 +7,7 @@ feature_image: "/uploads/feature-image.jpg"
 
 Please note that this page is still in progress. If you want to support us with any points, feel free to [join us](/join-us).
 
-## Integration of Local and International students
+### Integration of Local and International students
 
 Some years ago the study courses DKE and DE have become very popular with international students. This is also heavily due to the fact that those courses are offered in English language.
 Today we see many problems associated with the faculties utter unpreparedness in regards to having international students. There has been some good work, but there's still a long way to go.
@@ -17,14 +17,14 @@ These students are separated from german-speaking students in many ways. On a so
 In the same way as the faculty FaRaFIN has been struggling with this evolution. There has been some good intentioned work towards bettering the situation, yet still international students often don't feel represented or aided by FaRaFIN.
 We aim to change this and transform our faculty into a truly inclusive and multicultural place.
 
-## Anti discrimination work
+### Anti discrimination work
 
 - Different sides of discrimination
 - Make this visible
 - Create awareness for discriminatory behavior
 - Inclusiveness
 
-## Opening up FaRaFIN for political work, in specific a clear position against climate change and fascism
+### Opening up FaRaFIN for political work, in specific a clear position against climate change and fascism
 
 - moral and legal obligation to do so
 - currently FaRaFIN completely excludes political work
@@ -35,20 +35,20 @@ We aim to change this and transform our faculty into a truly inclusive and multi
 - Active tolerance
 - International students
 
-## Promote ethical thinking amongst our students
+### Promote ethical thinking amongst our students
 
 - Computer scientists as the job of the future
 - Ethical responsibility
 - Think about applications like military, repression, censorship, privacy etc
 
-## improve the study situation of all students
+### improve the study situation of all students
 - more open labs
 - improve registration for courses
 - improve exam schedules
 - improve CV masters course
 - improve CV in non-medical fields
 
-## Fundamental reform and opening of FaRaFIN a more productive and open culture in FaRaFIN
+### Fundamental reform and opening of FaRaFIN a more productive and open culture in FaRaFIN
 
 - Open and transparent decision-making 
 - reduce bureaucracy
