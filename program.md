@@ -11,7 +11,7 @@ This is our program for FaRaFIN in the upcoming 2019 committee elections. We hav
 
 ### Studies
 
-##### English Courses
+#### English Courses
 This semester we are closing in on having 50% international students in our faculty. Yet only very few courses are offered in english.
 Those few courses which are offered in english language then naturally get overrun resulting in students not being able to take them. For many students this results in having to study an additional year and not having the ability to choose between different courses.
 This is just one example of the universities reckless behaviour in implementing two english study courses and not preparing for them in any way.
@@ -19,7 +19,7 @@ This is just one example of the universities reckless behaviour in implementing 
 - We want to promote using a central technical system for registering to a specific course
 - We want to draft up a fair, discrimination free system of letting people into their preferred courses
 
-##### Ethics course
+#### Ethics course
 
 - Many other areas and universities have mandatory ethics courses
 - computer scientists have a high moral responsibility
@@ -30,35 +30,35 @@ This is just one example of the universities reckless behaviour in implementing 
 	- Assist in drafting a possible module description and redesign the study courses to reflect this course
 	- Look into getting more (external) courses in this direction
 
-##### Computational Visualistics Masters program
+#### Computational Visualistics Masters program
 
 More and more students decide for the computer science master program instead of a computational visualistics master program. That is because the computational visualistics master has no advantage over a computer science master. In fact you can do more typical computational visualistics courses when choosing the computer science master since in the computational visualistics programm you get forced to choose some lectures, that are not related to computational visualistics. Also in the computational visualistics program you don't have the chance to go on with your area of specialization (except for some medicine lectures), but as a computer science master student you could just choose those courses as secondary.
 Currently there is no benefit from choosing the computational visualistics master program instead of the computer science master program.
 
-##### Computational Visualistics outside of the medical focus
+#### Computational Visualistics outside of the medical focus
 
 In the computational visualistics bachelor program you have to choose one out of five areas of specialization. These are "Medizintechnik", "Computer Spiele", "Konstruktion und Design", "Bildinformationstechnik", "Werkstoffwissenschaften" and "Biologie". Computational visualistics is officially advertised as an interdisciplinary study course, but the conntection beween your studies at the FIN and your "Anwendungsfach" is sometimes very weak. How much you can include your chosen area of specialization in your studies (beyond the four mandatory courses) depends on the research focus of our professors. Since many professors at our faculty are interested in medicine, you have the possibility to choose many different courses and seminars or even a thesis related to the area of specialization called "Medztintechnik". Most of the other areas of specialization do not have this possibilites and are therefore not so interdisciplinary in their approach. 
 
-##### Exam scheduling
+#### Exam scheduling
 
 - Try improving the exam scheduling
 	- Examinations should be better spread over the whole examination phase
 	- It should not be the case that a large part of the examinations take place at the beginning of the examination phase
 
-##### Recognize profile study courses for non-cs students
+#### Recognize profile study courses for non-cs students
 
 - Currently only the cs-study course has profile courses
 - If you're studying business informatics (eg.) and do all courses part of such a profile, that isn't officially recognized
 
 ### Faculty
 
-##### Awareness Group
+#### Awareness Group
 
 - Members of our group have founded FaRaFINs Awareness Group this January
 - Measures
 	- Continuation of the work which is beginning to be done here
 
-##### Opening hours
+#### Opening hours
 
 - The current situation for the opening hours is still unclear
 - It's not 100% clear when you're required to register with ISD and when not
@@ -67,7 +67,7 @@ In the computational visualistics bachelor program you have to choose one out of
 	- Get everyone at a table to finally get clarity into this situation
         - Provide translations for english-speaking students to help them communicate with security
 
-##### Open labs and working spaces
+#### Open labs and working spaces
 
 - Most open labs and working spaces are overcrowded and loud
 - Many could havet better technical infrastructure
@@ -78,32 +78,32 @@ In the computational visualistics bachelor program you have to choose one out of
 	- Make a case to reopen K056 to the "public"
         - Try creating more open labs and spaces
 
-##### Gender neutral bathrooms
+#### Gender neutral bathrooms
 
 - binary bathrooms exclude nonbinary people
 - Measures
 	- Have gender neutral bathrooms in the second and fourth floor of the main staircase
 
-##### Alumni community
+#### Alumni community
 
 - Establish an alumni community
 	- Get workshops from these people
 
-##### Phd students
+#### Phd students
 
 - Currently few people are aware, that FaRaFIN also represents Phd students who chose to be represented by us
 - We should evaluate what this means for us
 
 ### University and Society
 
-##### Promote ethical thinking
+#### Promote ethical thinking
 
 - Measures
 	- Events to promote this
 	- Open discourse about ethics on a faculty level
 	- Critisize unethical things in faculty etc
 
-##### Promote political acitvism
+#### Promote political acitvism
 
 - Measures
 	- Events to promote this
@@ -111,7 +111,7 @@ In the computational visualistics bachelor program you have to choose one out of
 	- Found a department for political work in FaRaFIN
 	- Participate in demonstrations
 
-##### Stance on antifascism
+#### Stance on antifascism
 
 - Measures
 	- Clear statement against fascism
@@ -119,7 +119,7 @@ In the computational visualistics bachelor program you have to choose one out of
 	- Support antifascist cause
 	- Participate in demonstrations
 
-##### Stance on climate change
+#### Stance on climate change
 
 - Fridays for Future as a student initiative
 - Measures
@@ -128,14 +128,14 @@ In the computational visualistics bachelor program you have to choose one out of
 	- Support cause
 	- Participate in demonstrations
 
-##### Cooperation with StuRa
+#### Cooperation with StuRa
 
 - currently the relations between StuRa and FaRaFIN are distant and sometimes difficult
 - Measures
 	- Appoint person for interaction with StuRa
 	- Work with StuRa on policies which affect the whole university
 
-##### Stance on digital policies (eg Art 13)
+#### Stance on digital policies (eg Art 13)
 
 - Measures
 	- Inform as experts
@@ -144,13 +144,13 @@ In the computational visualistics bachelor program you have to choose one out of
 	- Support cause
 	- Participate in and organize demonstrations
 
-##### Legal name requirement on official electoral stuff
+#### Legal name requirement on official electoral stuff
 
 - a few students aren't mainly known by their legal name
 - some people are going through name changes
 - requiring those students to use their legal name on the ballot is hurting them
 
-##### Legal name is often required
+#### Legal name is often required
 
 - a few students aren't mainly known by their legal name
 - some people are going through name changes
@@ -158,20 +158,20 @@ In the computational visualistics bachelor program you have to choose one out of
 
 ### Projects and Events
 
-##### Events for international students
+#### Events for international students
 
 - Make events more accessible to international students
 - Measures
 	- Let events be organized by intercultural teams
 	- Shift focus towards bilangual or english events
 
-##### Workshops and talks
+#### Workshops and talks
 
 - Measures
 	- Help students with the organizational side of workshops and talks
 	- implement a truly regular workshop/talk series
 
-###### Changing the focus of events
+#### Changing the focus of events
 
 - parties etc are super important for the cultural life of the faculty
 - there's no need at all for FaRaFIN micro-managing these parties 
@@ -179,29 +179,29 @@ In the computational visualistics bachelor program you have to choose one out of
 
 ### Internal structure of FaRaFIN
 
-##### Improved culture
+#### Improved culture
 
 - more openness towards new people and ideas
 - better, more productive culture
 
-##### More transparency
+#### More transparency
 
 - Transparency
 - More interactions with students
 - More press work
 
-##### Decentralization of the structure
+#### Decentralization of the structure
 
 - Decentralization of the structure
 	- Departments
 	- Taskforces
 
-##### More participation by everyone
+#### More participation by everyone
 
 - More basis democracy
 - Let the voice of all students truly be heard 
 
-##### Integration of international students
+#### Integration of international students
 
 - currently international students aren't represented amongst the elected members of the student councils
 - there's a language barrier preventing international students from being able to participate and thus being represented
@@ -210,7 +210,7 @@ In the computational visualistics bachelor program you have to choose one out of
 	- run for student council as international students
 	- get more international students to participate
 
-##### Flatten hierarchies in FaRaFIN
+#### Flatten hierarchies in FaRaFIN
 
 Currently FaRaFIN consists of seven members + their deputies. Out of these a board consisting of three speakers gets elected. These speakers have some authority on matters in FaRaFIN and a small budget. Each speaker is also responsible for a bunch of tasks falling into their area, although there is no formal definition which tasks these are exactly.
 Especially in the past legislation this has ben cause for some problems. As there are different opinions on how much authority the board should have there have been instances of the board having been task to solve some matters by FaRaFIN and later being reproached for actually doing that.
