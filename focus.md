@@ -2,7 +2,6 @@
 layout: post
 title: Focus of our work
 ---
-Before we start with our program, we'd like to explain the areas we want to focus our work on. We have distilled six areas as our main foci :
 
 ## Integration of Local and International students
 
