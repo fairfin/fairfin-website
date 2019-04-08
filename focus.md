@@ -42,7 +42,7 @@ We aim to change this and transform our faculty into a truly inclusive and multi
 - Ethical responsibility
 - Think about applications like military, repression, censorship, privacy etc
 
-### improve the study situation of all students
+### Improve the study situation of all students
 - more open labs
 - improve registration for courses
 - improve exam schedules
