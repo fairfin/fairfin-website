@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Why are we doing this
+feature_image: "/uploads/feature-image.jpg"
 ---
 
 So you may ask yourself, why we aren't just joining FaRaFIN the "traditional" way. We chose to do so, because with the years the work in this council has become more and more stuck and we don't believe that it is possible to fix this system from inside (some of us having tried and failed at this in the past).
