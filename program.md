@@ -29,20 +29,14 @@ This is just one example of the universities recless behaviour in implementing t
 	- Assist in drafting a possible module description and redesign the study courses to reflect this course
 	- Look into getting more (external) courses in this direction
 
-**The definite text for this is still in progress. If you want to support us here, feel free to [join us](/join-us).**
-
 #### Computer Visualistics Masters program
 
 More and more students decide for the computer science master program instead of a computational visualistics master program. That is because the computational visualistics master has no advantage over a computer science master. In fact you can do more typical computational visualistics courses when choosing the computer science master since in the computational visualistics programm you get forced to choose some lectures, that are not related to computational visualistics. Also in the computational visualistics program you don't have the chance to go on with your "Anwendungsfach" (except for some medicine lectures), but as a computer science master student you could just choose those courses as "Nebenfach".
 Currently there is no benefit from choosing the computational visualistics master program instead of the computer science master program.
 
-**The definite text for this is still in progress. If you want to support us here, feel free to [join us](/join-us).**
-
 #### Computer Visualistics outside of the medical focus
 
 In the computational visualistics bachelor program you have to choose one out of five "Anwendungsfaecher". These are "Medizintechnik", "Computer Spiele", "Konstruktion und Design", "Bildinformationstechnik", "Werkstoffwissenschaften" and "Biologie". Computational visualistics is officially advertised as an interdisciplinary study course, but the conntection beween your studies at the FIN and your "Anwendungsfach" is sometimes very weak. How much you can include your chosen "Anwendungsfach" in your studies (beyond the four mandatory courses) depends on the research focus of our professors. Since many Professors at our faculty are interested in medicine, you have the possibility to choose many different courses and seminars or even a thesis related to the "Anwendungsfach" "Medztintechnik". Some of the other "Anwendungsfaecher", especially "Konstruktion und Design", do not have this possibilites.
-
-**The definite text for this is still in progress. If you want to support us here, feel free to [join us](/join-us).**
 
 #### Exam scheduling
 
@@ -50,14 +44,10 @@ In the computational visualistics bachelor program you have to choose one out of
 	- Examinations should be better spread over the whole examination phase
 	- It should not be the case that a large part of the examinations take place at the beginning of the examination phase
 
-**The definite text for this is still in progress. If you want to support us here, feel free to [join us](/join-us).**
-
 #### Recognize profile study courses for non-cs students
 
 - Currently only the cs-study course has profile courses
 - If you're studying business informatics (eg.) and do all courses part of such a profile, that isn't officially recognized
-
-**The definite text for this is still in progress. If you want to support us here, feel free to [join us](/join-us).**
 
 #### Faculty
 
@@ -67,8 +57,6 @@ In the computational visualistics bachelor program you have to choose one out of
 - Measures
 	- Continuation of the work which is beginning to be done here
 
-**The definite text for this is still in progress. If you want to support us here, feel free to [join us](/join-us).**
-
 ##### Opening hours
 
 - The current situation for the opening hours is still unclear
@@ -77,8 +65,6 @@ In the computational visualistics bachelor program you have to choose one out of
 - Measures
 	- Get everyone at a table to finally get clarity into this situation
         - Provide translations for english-speaking students to help them communicate with security
-
-**The definite text for this is still in progress. If you want to support us here, feel free to [join us](/join-us).**
 
 ##### Open labs and working spaces
 
@@ -102,14 +88,10 @@ In the computational visualistics bachelor program you have to choose one out of
 - Establish an alumni community
 	- Get workshops from these people
 
-**The definite text for this is still in progress. If you want to support us here, feel free to [join us](/join-us).**
-
 ##### Phd students
 
 - Currently few people are aware, that FaRaFIN also represents Phd students who chose to be represented by us
 - We should evaluate what this means for us
-
-**The definite text for this is still in progress. If you want to support us here, feel free to [join us](/join-us).**
 
 #### University and Society
 
@@ -120,8 +102,6 @@ In the computational visualistics bachelor program you have to choose one out of
 	- Open discourse about ethics on a faculty level
 	- Critisize unethical things in faculty etc
 
-**The definite text for this is still in progress. If you want to support us here, feel free to [join us](/join-us).**
-
 ##### Promote political acitvism
 
 - Measures
@@ -130,8 +110,6 @@ In the computational visualistics bachelor program you have to choose one out of
 	- Found a department for political work in FaRaFIN
 	- Participate in demonstrations
 
-**The definite text for this is still in progress. If you want to support us here, feel free to [join us](/join-us).**
-
 ##### Stance on antifascism
 
 - Measures
@@ -139,8 +117,6 @@ In the computational visualistics bachelor program you have to choose one out of
 	- Information events
 	- Support antifascist cause
 	- Participate in demonstrations
-
-**The definite text for this is still in progress. If you want to support us here, feel free to [join us](/join-us).**
 
 ##### Stance on climate change
 
@@ -151,16 +127,12 @@ In the computational visualistics bachelor program you have to choose one out of
 	- Support cause
 	- Participate in demonstrations
 
-**The definite text for this is still in progress. If you want to support us here, feel free to [join us](/join-us).**<Paste>
-
 ##### Cooperation with StuRa
 
 - currently the relations between StuRa and FaRaFIN are distant and sometimes difficult
 - Measures
 	- Appoint person for interaction with StuRa
 	- Work with StuRa on policies which affect the whole university
-
-**The definite text for this is still in progress. If you want to support us here, feel free to [join us](/join-us).**
 
 ##### Stance on digital policies (eg Art 13)
 
@@ -171,15 +143,9 @@ In the computational visualistics bachelor program you have to choose one out of
 	- Support cause
 	- Participate in and organize demonstrations
 
-**The definite text for this is still in progress. If you want to support us here, feel free to [join us](/join-us).**
-
 ##### Legal name requirement on official electoral stuff
 
-**The definite text for this is still in progress. If you want to support us here, feel free to [join us](/join-us).**
-
 ##### Legal name is often required
-
-**The definite text for this is still in progress. If you want to support us here, feel free to [join us](/join-us).**
 
 #### Projects and Events
 
@@ -190,17 +156,11 @@ In the computational visualistics bachelor program you have to choose one out of
 	- Let events be organized by intercultural teams
 	- Lay focus on english language
 
-**The definite text for this is still in progress. If you want to support us here, feel free to [join us](/join-us).**
-
 ##### Workshops and talks
 
 - Help organizing more workshops
 
-**The definite text for this is still in progress. If you want to support us here, feel free to [join us](/join-us).**
-
 ###### Changing the focus of events
-
-**The definite text for this is still in progress. If you want to support us here, feel free to [join us](/join-us).**
 
 #### Internal structure of FaRaFIN
 
@@ -209,15 +169,11 @@ In the computational visualistics bachelor program you have to choose one out of
 - Openness
 - Better culture
 
-**The definite text for this is still in progress. If you want to support us here, feel free to [join us](/join-us).**
-
 ##### More transparency
 
 - Transparency
 - More interactions with students
 - More press work
-
-**The definite text for this is still in progress. If you want to support us here, feel free to [join us](/join-us).**
 
 ##### Decentralization of the structure
 
@@ -225,20 +181,14 @@ In the computational visualistics bachelor program you have to choose one out of
 	- Departments
 	- Taskforces
 
-**The definite text for this is still in progress. If you want to support us here, feel free to [join us](/join-us).**
-
 ##### More participation by everyone
 
 - More basis democracy
-
-**The definite text for this is still in progress. If you want to support us here, feel free to [join us](/join-us).**
 
 ##### Integration of international students
 
 - Measures
 	- Internal language english
-
-**The definite text for this is still in progress. If you want to support us here, feel free to [join us](/join-us).**
 
 ##### Flatten hierarchies in FaRaFIN
 
