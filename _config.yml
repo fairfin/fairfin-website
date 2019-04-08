@@ -6,6 +6,7 @@ lang: en-US
 baseurl: ""
 repo: "https://github.com/fairfin/fairfin-website/"
 email: "contact@fairfin.org"
+author: FAIRfin
 
 plugins:
   - jekyll-remote-theme
