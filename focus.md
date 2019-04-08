@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Focus of our work
+aside: true
 feature_image: "/uploads/feature-image.jpg"
 ---
 
