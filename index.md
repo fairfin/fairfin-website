@@ -18,4 +18,4 @@ We have explained each of them in more depth [here](/focus).
 
 If you're interested in more details we invite you to read our [program](/program)! 
 
-We're still searching for members to run for both student councils, so if you agree with our program and want to help improve the life of our students feel free to contact us - briefly describing your motivation. You can read more about becoming a member [here](join-us).
+We're still searching for members to run for both student councils, so if you agree with our program and want to help improve the life of our students feel free to contact us at contact@fairfin.org - briefly describing your motivation. You can read more about becoming a member [here](join-us).
