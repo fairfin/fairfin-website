@@ -20,6 +20,15 @@ This is just one example of the universities reckless behaviour in implementing 
 - We want to promote using a central technical system for registering to a specific course
 - We want to draft up a fair, discrimination free system of letting people into their preferred courses
 
+#### System of getting into a specific course
+Currently every working group has their own system of letting people into courses - technical and structural. 
+For one there are numerous different technical systems for registering to a course on different servers - even though every group should be able to use the lsf or moodle of the university for this purposes. Thus creating a general disturbance for every student each semester.
+On the other hand every group decides by which system they let people join their course. Many accept students on a first-come-first-serve basis, which can be discriminating in some instances. 
+Others use their own, sometimes arbitrary system. We even have observed flat our discrimination of non-german students in one instance when accepting students "randomly". 
+We strive to conceive a general, fair way of accepting students into a course and promote the usage of this. 
+- We want to promote using a central technical system for registering to a specific course
+- We want to draft up a fair, discrimination free system of letting people into their preferred courses
+
 #### Ethics course
 
 - Many other areas and universities have mandatory ethics courses
