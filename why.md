@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Why are we doing this
+title: Why we are doing this
 feature_image: "/uploads/feature-image.jpg"
 ---
 
