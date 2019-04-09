@@ -51,7 +51,8 @@ Owing to our current political situation though, I find it increasingly necessar
 ### Sumit Kundu 
 *running for: FaRaFIN*
 
-Sumit hasn't been able to write their introduction-text yet, it will go up here as soon as possible.
+Hi, I am Sumit. I am studying Masters in Data and Knowledge Engineering (MDKE) at FIN. I am also a student mentor for MDKE students and a representative in the International Study Committee. During my study duration here, I have observed that there is disconnect between the international students and german students. There are a lot of factors contributing to this disconnect. I would like to try and work towards integrating the different student communities and having a unified and vibrant student community in our faculty. <br /> 
+In addition to this, I am also part of a newly founded awareness group where we work towards promoting unity in diversity and address issues related to it.
 
 ### Tharakeswara Rao
 *running for: FaRaFIN*
