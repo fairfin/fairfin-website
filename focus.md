@@ -33,20 +33,17 @@ Especially for computer science students internet policy is very interesting sin
 
 ### Promote ethical thinking amongst our students
 
-- Computer scientists as the job of the future
-- Ethical responsibility
-- Think about applications like military, repression, censorship, privacy etc
+Computer science is often refrerred to as the job of the future. This is due to the ever-increasing digitalisation and nowadays computer scientists are needed in almost every field of work. As many of us will work with personal and sensitive data in the future a basic ethical thinking is crucial. Therefore we want to promote ethnical and critical thinking amongst the students, especially concerning topics like military, repression, cencorship and privacy. Thus the students should become aware of their own ethical responsibility.
 
 ### Improve the study situation of all students
-- more open labs
-- improve registration for courses
-- improve exam schedules
-- improve CV masters course
-- improve CV in non-medical fields
+
+With regard to the study situation, we have various points in mind that could be improved. As we have observed over the last few semesters how overcrowded some public laboratories are, we believe that more faculty rooms should be made accessible to students. This also refers to the fact that some of the conference rooms should be bookable by students via the farafin (analogous to R412). <br /> 
+We are also striving for a simplified and unified registration procedure for courses. In this context we also want to make the registration fairer, because especially new students often have problems to still find free places in some courses. <br />
+As stressful as the registration for courses at the beginning of the semester is the examination phase at the end of the semester. The majority of examinations are often held in the first weeks of the examination phase, which makes it considerably more difficult for students to prepare well for them. That is why we want to work towards a better distribution of examination dates throughout the entire examination phase. <br />
+During the last semesters fewer and fewer students enrolled in the computational visualistics course. This applies to both the bachelor's and master's degrees. We also observed that the remaining areas of specialization are underrepresented in comparison to medicine. In our opinion this points out that there is some room for improvements regarding this course.
 
 ### Fundamental reform and opening of FaRaFIN 
+We believe that there are some grievances and a general toxic culture in FaRaFIN at the moment. This often has a negative effect on the mood and tone in FaRaFIN which is also noticed by outside observers. More and more students feel uncomfortable turning to the FaRaFIN for help.<br />
+In addition, many students do not feel represented by the current FaRaFIN, since e.g. no international student is an elected member. This also means that many of the decisions are made without involving a huge part of the student body.<br /> 
+We think it would be a good solution to open up the FaRaFIN more. Students who do not want to join FaRaFIN but are nevertheless interested in a certain topic can get more involved. This also unburdens the members of FaRaFIN. In addition, FaRaFIN will be more open and have more connection to the student body.
 
-- we want a more productive and open culture in FaRaFIN
-- Open and transparent decision-making 
-- reduce bureaucracy
-- remove toxic culture in favor of a productive and open one
