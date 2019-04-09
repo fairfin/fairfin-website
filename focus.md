@@ -5,8 +5,6 @@ aside: true
 feature_image: "/uploads/feature-image.jpg"
 ---
 
-Please note that this page is still in progress. If you want to support us with any points, feel free to [join us](/join-us).
-
 ### Integration of Local and International students
 
 Some years ago the study courses DKE and DE have become very popular with international students. This is also heavily due to the fact that those courses are offered in English language. <br />
