@@ -60,6 +60,11 @@ In the computational visualistics bachelor program you have to choose one out of
 - Currently only the cs-study course has profile courses
 - If you're studying business informatics (eg.) and do all courses part of such a profile, that isn't officially recognized
 
+#### More choice of courses in business informatics
+
+- currently the choices for courses in business informatics are quite limited
+- we'd like to have more choice in this area
+
 
 ### __Faculty__
 
@@ -94,6 +99,7 @@ In the computational visualistics bachelor program you have to choose one out of
 - binary bathrooms exclude nonbinary people
 - Measures
 	- Have gender neutral bathrooms in the second and fourth floor of the main staircase
+- this also should apply to the whole university
 
 #### Alumni community
 
@@ -105,6 +111,11 @@ In the computational visualistics bachelor program you have to choose one out of
 - Currently few people are aware, that FaRaFIN also represents Phd students who chose to be represented by us
 - We should evaluate what this means for us
 
+#### Showers
+
+- In summer people cycling to university tend to get very sweaty
+- This discourages many people from cycling to the faculty and they instead take other means of traffic 
+- to encourage fitness and ecological means of travel we propose to install showers in the faculty
 
 ### __University and Society__
 
@@ -168,6 +179,32 @@ In the computational visualistics bachelor program you have to choose one out of
 - some people are going through name changes
 - forcing the usage of their legal name on them in universitary day-by-day is hurting them
 
+#### "Zivilklausel" 
+
+- add clause to universities bylaws prohibiting military research and cooperations
+
+#### Close road between the two halves of the Campus (G29 and G22) to car-traffic
+
+- the road between the two halves of the Campus shouldn't be open to car-traffic
+
+#### Implement better garbage separation
+
+- currently most bins in the university are for "normal" waste
+- we'd like to have a better separation of waste throughout universtity for better recycling
+
+#### No electronic elections
+
+- There are various big problems with electronic elections
+- We want to reopen discussion on this topic and try to re-implement physical voting for the universitary elections
+
+#### Better technical infrastructure for the university
+
+- As seen with outdated and non-intuitive portals like myovgu.ovgu.de or the regular crash of spoz.ovgu.de when registrations are open the technical infrastructure of the university is in a dire state
+- We'd like to push for a change in this are
+
+#### More diverse choice of food in the mensa
+- especially in the semester pause the choice of food in the mensa is very limited
+- we'd like to push for a much more diverse choice here
 
 ### __Projects and Events__
 
