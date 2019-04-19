@@ -23,7 +23,8 @@ In addition to this I also want to promote ethical thinking and political activi
 ### Gustav Neumann 
 *running for: FaRaFIN*
 
-Gustav hasn't been able to write their introduction-text yet, it will go up here as soon as possible.
+Hello, I'm Gustav and I'm currently studying Computer Visualistics at FIN.
+I've been active in the student council in the past, and my main point of interest would be organising social events and the like for students, like for example Game Nights.
 
 ### muffin (no pronoun)
 *running for: FaRaFIN and StuRa*
@@ -37,6 +38,11 @@ I want to work towards more tolerance and acceptance in our faculty and a better
 Hello, I am Naveen. I am studying Masters in Digital Engineering at FIN. I have been actively involved with the International student mentoring program at FIN since 2017. At the mentoring program, I assist the International students in integrating with the German education system and culture. <br />
 At FAIRfin, I'd like to work towards bringing in an approachable and friendly platform for the International students to address their concerns, to make their voice heard.
 
+### Rakesh Devalapally
+*running for: FaRaFIN*
+
+Rakesh is currently in his 3rd semester of Masters in Data and Knowledge Engineering. Rakesh has worked as an IT consultant for over 10 years in different parts of the world before chosing to do a masters in Germany. He sees that there is a gap in the information provided by the university and received by the international students and that there is a disconnect between the German speaking students and the non German speaking students. He aims to bridge this gap by being an active member of FAIRfin, which is trying to address some key issues faced in the university at the moment.
+
 ### Sarah Mittenentzwei (she)
 *running for: FaRaFIN*
 
@@ -48,7 +54,7 @@ I am Sarah, since the winter semester 2015/16 I have been studying computational
 Hi, I am Sascha and I study CV since 2015. Starting with my first Semester I was active in Acagamics, where I organized events, courses and workshops. <br />
 Owing to our current political situation though, I find it increasingly necessary to use the platforms given to us as students politically. As part of the Awareness Group, this means fighting against daily and structural discrimination among a diverse student body. Furthermore though, it has to mean politically positioning the FaraFIN against oppressive structures and movements and to encourage and foster political activism among the students. 
 
-### Sumit Kundu 
+### Sumit Kundu (he) 
 *running for: FaRaFIN*
 
 Hi, I am Sumit. I am studying Masters in Data and Knowledge Engineering (MDKE) at FIN. I am also a student mentor for MDKE students and a representative in the International Study Committee. During my study duration here, I have observed that there is disconnect between the international students and german students. There are a lot of factors contributing to this disconnect. I would like to try and work towards integrating the different student communities and having a unified and vibrant student community in our faculty. <br /> 
