@@ -19,8 +19,8 @@ Wir fokussieren uns auf folgende sechs Schwerpunkte in unserer Arbeit (hauptsäc
 * Die Studienbedingungen für alle Studierenden verbessern
 * Den FaRaFIN nachhaltig zu einer offeneren und produktiveren Kultur weiter entwickeln
 
-Hier haben wir die einzelnen Schwerpunkte genauer erklärt.
+[Hier](/de/schwerpunkte) haben wir die einzelnen Schwerpunkte genauer erklärt.
 
-Wenn du mehr erfahren möchtest, laden wir dich herzlich ein, unser Wahlprogramm zu lesen!
+Wenn du mehr erfahren möchtest, laden wir dich herzlich ein, unser [Wahlprogramm (en)](/program) zu lesen!
 
-Wir sind immer auf der Suche nach Verstärkung. Wenn du dich mit unseren Idealen identifizieren kannst und mit uns das Leben an der FIN verbessern willst, schreib uns einfach unter contact@fairfin.org. Mehr darüber, wie du mit machen kannst, erfährst du hier.
+Wir sind immer auf der Suche nach Verstärkung. Wenn du dich mit unseren Idealen identifizieren kannst und mit uns das Leben an der FIN verbessern willst, schreib uns einfach unter contact@fairfin.org. Mehr darüber, wie du mit machen kannst, erfährst du [hier](/de/mach-mit).
