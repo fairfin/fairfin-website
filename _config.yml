@@ -17,7 +17,7 @@ timezone: Europe/Berlin
 collections:
   pages-en:
     output: true
-    permalink: /en/:name
+    permalink: /:name
   pages-de:
     output: true
     permalink: /de/:name
