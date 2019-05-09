@@ -17,10 +17,10 @@ timezone: Europe/Berlin
 collections:
   pages-en:
     output: true
-    permalink: /:name
+    permalink: /en/:name
   pages-de:
     output: true
-    permalink: /:name
+    permalink: /de/:name
 
 plugins:
   - jekyll-remote-theme
