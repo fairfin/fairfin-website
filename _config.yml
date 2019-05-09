@@ -14,6 +14,14 @@ permalink: pretty
 excerpt_separator: <!-- more -->
 timezone: Europe/Berlin
 
+collections:
+  pages-en:
+    output: true
+    permalink: /:name
+  pages-de:
+    output: true
+    permalink: /:name
+
 plugins:
   - jekyll-remote-theme
 
