@@ -4,6 +4,8 @@ title: Mach mit!
 feature_image: "/uploads/feature-image.jpg"
 --- 
 
+**[English version](/join-us)**
+
 Natürlich sind wir noch auf der Suche nach neuen Mitgliedern, die sich mit unserem Profil identifizieren können. Auf dieser Seite bekommst du einen groben Überblick, was das bedeutet. Bei Fragen jedweder Art kontaktiere uns gerne via E-Mail an contact@fairfin.org.
 
 Zunächst solltest du dich mit unseren Schwerpunkten vertraut machen. Wenn du diesen prinzipiell zustimmst, kannst du unser Programm lesen, welches sich allerdings noch in Entwicklung befindet und bei welchem du ganz herzlich eingeladen bist, mitzuwirken! 

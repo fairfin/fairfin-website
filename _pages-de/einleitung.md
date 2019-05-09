@@ -4,6 +4,8 @@ title: Einführung
 feature_image: "/uploads/feature-image.jpg"
 ---
 
+**[English version](/)**
+
 Wir sind FAIRfin – eine Gruppe Studierender, die für Vielfalt und positive Veränderung an unserer Uni steht. Bei den diesjährigen Gremienwahlen treten wir für den Fachschaftsrat und den Studierendenrat (in Kooperation mit der GHG – Grünen Hochschulgruppe) an.
 
 Wir haben Erfahrung in ehrenamtlicher, gemeinnütziger Arbeit neben dem Studium – sei es im Studierendenrat oder Fachschaftsrat, im Acagamics e.V. oder im Mentoring für Studienanfänger\*innen und Internationals.

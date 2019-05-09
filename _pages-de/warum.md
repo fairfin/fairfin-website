@@ -4,6 +4,8 @@ title: Was uns antreibt
 feature_image: "/uploads/feature-image.jpg"
 ---
 
+**[English version](/why)**
+
 Du fragst dich bestimmt, warum wir nicht einfach auf die „traditionelle“ Weise für den FaRaFIN kandidieren. Wir haben uns für eine eigene Liste entschieden, da die Arbeit im FaRa mit den Jahren immer festgefahrener wurde und wir glauben, dass wir diese Sackgasse nicht „von innen heraus“ verlassen können (einige von uns haben das in der Vergangenheit erfolglos probiert).
 
 Bisher war die Wahl dieses Gremiums mehr oder weniger bedeutungslos, da es nur eine Liste gab. Dadurch war der entscheidende Punkt, den die Wahl tatsächlich beeinflussen konnte, wer Sprecher für Finanzen werden kann (bzw. wer nicht). Doch selbst falls die Person, die für diesen Auftrag vorgesehen war, nicht unter die „ersten sieben“ gewählt wurde, sind einfach so viele Gewählte zurückgetreten, bis die Person in die ersten sieben nachgerückt ist.

@@ -5,7 +5,7 @@ aside: true
 feature_image: "/uploads/feature-image.jpg"
 ---
 
-**[Engish version](/focus)**
+**[English version](/focus)**
 
 ### Integration lokaler und internationaler Studierender
 

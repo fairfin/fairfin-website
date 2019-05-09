@@ -4,6 +4,8 @@ title: Join us
 feature_image: "/uploads/feature-image.jpg"
 --- 
 
+**[German version](/de/mach-mit)**
+
 Of course we're still searching for likeminded people willing to join us. On this page we want to try to give you a broad overview of what that would mean. If you have any questions, please feel free to write us an e-mail to contact@fairfin.org. 
 
 First of all please read our page on the [focus](/focus) of this group. If you agree with those points in principle you can read up our [program](/program), though that's a work in progress and you can still add to it.  
