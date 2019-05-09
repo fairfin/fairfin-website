@@ -17,10 +17,10 @@ timezone: Europe/Berlin
 collections:
   pages-en:
     output: true
-    permalink: /:name
+    permalink: /:title:output_ext
   pages-de:
     output: true
-    permalink: /de/:name
+    permalink: /de/:title:output_ext
 
 plugins:
   - jekyll-remote-theme
@@ -29,16 +29,16 @@ remote_theme: daviddarnes/alembic
 
 navigation_header:
   Home: /
-  Focus of our work: /focus/
-  Program: /program/
-  Why we are doing this: /why/
-  Team: /introductions/
-  Join us: /join-us/
+  Focus of our work: /focus.html
+  Program: /program.html
+  Why we are doing this: /why.html
+  Team: /introductions.html
+  Join us: /join-us.html
   
 navigation_footer:
   Home: /
-  Imprint: /imprint/
-  Datenschutzerklärung: /dataprivacy/
+  Imprint: /imprint.html
+  Datenschutzerklärung: /dataprivacy.html
 
 kramdown:
   auto_ids          : true
