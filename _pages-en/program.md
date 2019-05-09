@@ -254,12 +254,17 @@ In the computational visualistics bachelor program you have to choose one out of
 
 #### Integration of international students
 
-- currently international students aren't represented amongst the elected members of the student councils
-- there's a language barrier preventing international students from being able to participate and thus being represented
-- Measures
-	- change the internal language english
-	- run for student council as international students
-	- get more international students to participate
+At the moment international students aren't represented in the student councils. That way they're not properly considered in any activity of any student council. 
+This missing representation is mostly due to a strong language barrier. Over the years some english-speaking students have tried to join a student council, but were unable to participate, due to the internal language being german. Attempts to change this have failed in the past. 
+The missing representation of international students reinforces the structural discrimination of those students and strengthens the division between local and international students. That way events organized by FaRaFIN cater to the local students only, proposed changes in the university tend to ignore the needs of international students and informations reach international students more like 2nd-class citizens. 
+Even good willing local students, doing work for international students will never be able to truly meet the needs of those not equipped with their privileges. 
+Thus our main aim is to enable international students to participate in FaRaFIN, through the following measures:
+- Change the internal language of FaRaFIN to english, affecting all taskforces, departments, internal e-mails, internal documents, meetings etc. 
+	- We obviously won't enforce perfect british english, so please have no worries about not being able to participate with even if you english isn't perfect
+	- For students unable to participate in english language we'll try to provide appropriate translations to german
+	- We'll discuss providing the financial means for the universities english courses to students wanting to get active in student council
+- Get international students elected into student council
+- Get more international students to participate in student council projects
 
 #### Flatten hierarchies in FaRaFIN
 
