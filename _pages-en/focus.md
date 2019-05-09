@@ -5,6 +5,8 @@ aside: true
 feature_image: "/uploads/feature-image.jpg"
 ---
 
+**[German version](/de/schwerpunkte)**
+
 ### Integration of Local and International students
 
 Some years ago the study courses DKE and DE have become very popular with international students. This is also heavily due to the fact that those courses are offered in English language. <br />
