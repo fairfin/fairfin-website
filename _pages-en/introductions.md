@@ -15,7 +15,7 @@ I started to do volunteer work when I enrolled at FIN, mostly with the student g
 ### David Magnus Henriques (he/they)
 *running for: FaRaFIN and StuRa*
 
-Hey, I'm David - currently studying computer science. I'm doing voluntary work besides my studies since nearly four years now. That startet at Acagamics, where I was a member of the board for two years and has begun to shift in direction of FaRaFIN for three years now. <br /> 
+Hey, I'm David - currently studying computer science. I'm doing voluntary work besides my studies since nearly four years now. This work startet at Acagamics, where I was a member of the board for two years and has begun to shift in direction of FaRaFIN for three years now. <br /> 
 With the years my focus has shifted from just wanting to organize cool events (which I do still enjoy), to wanting to improve the conditions of everyone studying here. <br />
 For next legislation I'd like to continue working against discrimination and for more diversity with the newly founded Awareness Group. Here I'll be continuing my focus on integrating local and international students, as I see the current situation as very shameful for our university. <br /> 
 In addition to this I also want to promote ethical thinking and political activism amongst our students, because I view this as extremly important in our field of work. 
